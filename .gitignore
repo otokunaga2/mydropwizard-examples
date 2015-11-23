@@ -3,3 +3,13 @@ target/*
 dropwizard-examples.iml
 dependency-reduced-pom.xml
 
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
